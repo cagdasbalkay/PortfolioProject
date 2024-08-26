@@ -1,0 +1,60 @@
+C:\Users\cagda\source\repos\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\cagda\source\repos\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.json
+C:\Users\cagda\source\repos\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.dev.json
+C:\Users\cagda\source\repos\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\cagda\source\repos\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\cagda\source\repos\Core_Proje\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\cagda\source\repos\Core_Proje\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\cagda\source\repos\Core_Proje\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\cagda\source\repos\Core_Proje\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\cagda\source\repos\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\cagda\source\repos\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagda\source\repos\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\cagda\source\repos\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\cagda\source\repos\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\cagda\source\repos\Core_Proje\BusinessLayer\obj\Debug\net5.0\Business.EA331CBA.Up2Date
+C:\Users\cagda\source\repos\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\cagda\source\repos\Core_Proje\BusinessLayer\obj\Debug\net5.0\refint\BusinessLayer.dll
+C:\Users\cagda\source\repos\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\cagda\source\repos\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.genruntimeconfig.cache
+C:\Users\cagda\source\repos\Core_Proje\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\cagda\source\repos\Core_Proje - Kopya\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\cagda\source\repos\Core_Proje - Kopya\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.json
+C:\Users\cagda\source\repos\Core_Proje - Kopya\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.dev.json
+C:\Users\cagda\source\repos\Core_Proje - Kopya\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\cagda\source\repos\Core_Proje - Kopya\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\cagda\source\repos\Core_Proje - Kopya\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\cagda\source\repos\Core_Proje - Kopya\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\cagda\source\repos\Core_Proje - Kopya\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\cagda\source\repos\Core_Proje - Kopya\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\cagda\source\repos\Core_Proje - Kopya\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\cagda\source\repos\Core_Proje - Kopya\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagda\source\repos\Core_Proje - Kopya\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\cagda\source\repos\Core_Proje - Kopya\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\cagda\source\repos\Core_Proje - Kopya\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\cagda\source\repos\Core_Proje - Kopya\BusinessLayer\obj\Debug\net5.0\Business.EA331CBA.Up2Date
+C:\Users\cagda\source\repos\Core_Proje - Kopya\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\cagda\source\repos\Core_Proje - Kopya\BusinessLayer\obj\Debug\net5.0\refint\BusinessLayer.dll
+C:\Users\cagda\source\repos\Core_Proje - Kopya\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\cagda\source\repos\Core_Proje - Kopya\BusinessLayer\obj\Debug\net5.0\BusinessLayer.genruntimeconfig.cache
+C:\Users\cagda\source\repos\Core_Proje - Kopya\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\cagda\source\repos\PortfolioProject\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\cagda\source\repos\PortfolioProject\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.json
+C:\Users\cagda\source\repos\PortfolioProject\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.dev.json
+C:\Users\cagda\source\repos\PortfolioProject\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\cagda\source\repos\PortfolioProject\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\cagda\source\repos\PortfolioProject\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\cagda\source\repos\PortfolioProject\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\cagda\source\repos\PortfolioProject\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\cagda\source\repos\PortfolioProject\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\cagda\source\repos\PortfolioProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\cagda\source\repos\PortfolioProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagda\source\repos\PortfolioProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\cagda\source\repos\PortfolioProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\cagda\source\repos\PortfolioProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\cagda\source\repos\PortfolioProject\BusinessLayer\obj\Debug\net5.0\Business.EA331CBA.Up2Date
+C:\Users\cagda\source\repos\PortfolioProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\cagda\source\repos\PortfolioProject\BusinessLayer\obj\Debug\net5.0\refint\BusinessLayer.dll
+C:\Users\cagda\source\repos\PortfolioProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\cagda\source\repos\PortfolioProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.genruntimeconfig.cache
+C:\Users\cagda\source\repos\PortfolioProject\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll

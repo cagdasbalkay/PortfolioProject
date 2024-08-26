@@ -1,0 +1,35 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+
+<partial name="~/Areas/Writer/Views/Default/_HeadPartial.cshtml" />
+
+<body>
+    <div class="container-scroller">
+        <partial name="~/Areas/Writer/Views/Default/_NavbarPartial.cshtml" />
+        <!-- partial -->
+        <div class="container-fluid page-body-wrapper">
+
+            <partial name="~/Areas/Writer/Views/Default/_SidebarPartial.cshtml" />
+            <!-- partial -->
+            <div class="main-panel">
+                <div class="content-wrapper">
+                        @RenderBody()
+                        
+                   
+                </div>
+
+                <partial name="~/Areas/Writer/Views/Default/_FooterPartial.cshtml" />                <!-- partial -->
+            </div>
+            <!-- main-panel ends -->
+        </div>
+        <!-- page-body-wrapper ends -->
+    </div>
+    <partial name="~/Areas/Writer/Views/Default/_ScriptsPartial.cshtml" />
+</body>
+
+</html>

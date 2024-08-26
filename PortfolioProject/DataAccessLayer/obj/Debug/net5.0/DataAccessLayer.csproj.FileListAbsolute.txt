@@ -1,0 +1,54 @@
+C:\Users\cagda\source\repos\Core_Proje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\cagda\source\repos\Core_Proje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\cagda\source\repos\Core_Proje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\cagda\source\repos\Core_Proje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\cagda\source\repos\Core_Proje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\cagda\source\repos\Core_Proje\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\cagda\source\repos\Core_Proje\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\cagda\source\repos\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\cagda\source\repos\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagda\source\repos\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\cagda\source\repos\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\cagda\source\repos\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\cagda\source\repos\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAcce.E67BD773.Up2Date
+C:\Users\cagda\source\repos\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\cagda\source\repos\Core_Proje\DataAccessLayer\obj\Debug\net5.0\refint\DataAccessLayer.dll
+C:\Users\cagda\source\repos\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\cagda\source\repos\Core_Proje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\cagda\source\repos\Core_Proje\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\cagda\source\repos\Core_Proje - Kopya\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\cagda\source\repos\Core_Proje - Kopya\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\cagda\source\repos\Core_Proje - Kopya\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\cagda\source\repos\Core_Proje - Kopya\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\cagda\source\repos\Core_Proje - Kopya\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\cagda\source\repos\Core_Proje - Kopya\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\cagda\source\repos\Core_Proje - Kopya\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\cagda\source\repos\Core_Proje - Kopya\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\cagda\source\repos\Core_Proje - Kopya\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagda\source\repos\Core_Proje - Kopya\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\cagda\source\repos\Core_Proje - Kopya\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\cagda\source\repos\Core_Proje - Kopya\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\cagda\source\repos\Core_Proje - Kopya\DataAccessLayer\obj\Debug\net5.0\DataAcce.E67BD773.Up2Date
+C:\Users\cagda\source\repos\Core_Proje - Kopya\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\cagda\source\repos\Core_Proje - Kopya\DataAccessLayer\obj\Debug\net5.0\refint\DataAccessLayer.dll
+C:\Users\cagda\source\repos\Core_Proje - Kopya\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\cagda\source\repos\Core_Proje - Kopya\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\cagda\source\repos\Core_Proje - Kopya\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\cagda\source\repos\PortfolioProject\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\cagda\source\repos\PortfolioProject\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\cagda\source\repos\PortfolioProject\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\cagda\source\repos\PortfolioProject\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\cagda\source\repos\PortfolioProject\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\cagda\source\repos\PortfolioProject\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\cagda\source\repos\PortfolioProject\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\cagda\source\repos\PortfolioProject\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\cagda\source\repos\PortfolioProject\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagda\source\repos\PortfolioProject\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\cagda\source\repos\PortfolioProject\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\cagda\source\repos\PortfolioProject\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\cagda\source\repos\PortfolioProject\DataAccessLayer\obj\Debug\net5.0\DataAcce.E67BD773.Up2Date
+C:\Users\cagda\source\repos\PortfolioProject\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\cagda\source\repos\PortfolioProject\DataAccessLayer\obj\Debug\net5.0\refint\DataAccessLayer.dll
+C:\Users\cagda\source\repos\PortfolioProject\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\cagda\source\repos\PortfolioProject\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\cagda\source\repos\PortfolioProject\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll

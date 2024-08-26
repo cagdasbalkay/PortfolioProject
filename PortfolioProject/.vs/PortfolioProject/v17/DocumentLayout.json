@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cagda\\source\\repos\\PortfolioProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78169D98-04AB-4369-B47A-104490BDF127}|PortfolioProject\\PortfolioProject.csproj|c:\\users\\cagda\\source\\repos\\portfolioproject\\portfolioproject\\views\\shared\\components\\skilllist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78169D98-04AB-4369-B47A-104490BDF127}|PortfolioProject\\PortfolioProject.csproj|solutionrelative:portfolioproject\\views\\shared\\components\\skilllist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\cagda\\source\\repos\\PortfolioProject\\PortfolioProject\\Views\\Shared\\Components\\SkillList\\Default.cshtml",
+              "RelativeDocumentMoniker": "PortfolioProject\\Views\\Shared\\Components\\SkillList\\Default.cshtml",
+              "ToolTip": "C:\\Users\\cagda\\source\\repos\\PortfolioProject\\PortfolioProject\\Views\\Shared\\Components\\SkillList\\Default.cshtml",
+              "RelativeToolTip": "PortfolioProject\\Views\\Shared\\Components\\SkillList\\Default.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-24T21:54:36.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

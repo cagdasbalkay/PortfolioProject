@@ -1,0 +1,51 @@
+﻿@model EntityLayer.Concrete.Testimonial
+
+@{
+    ViewData["Title"] = "EditTestimonial";
+    Layout = "~/Views/Shared/_NewAdminLayout.cshtml";
+}
+
+<div class="card-header border-0">
+    <h3 class="mb-0">Referans Detayları</h3>
+</div>
+
+@using (Html.BeginForm("EditTestimonial", "Testimonial", FormMethod.Post))
+{
+    <div class="col-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <p class="card-description">Yetenek Düzenleme</p>
+                <form class="forms-sample">
+                    <div class="form-group">
+                        <label>ID</label>
+                        <input asp-for="TestimonialID" class="form-control" />
+                    </div>
+                    <div class="form-group">
+                        <label>Ad Soyad</label>
+                        <input asp-for="ClientName" class="form-control" />
+                    </div>
+                    <div class="form-group">
+                        <label>Şirket</label>
+                        <input asp-for="Company" class="form-control" />
+                    </div>
+                    <div class="form-group">
+                        <label>Başlık</label>
+                        <input asp-for="Title" class="form-control" />
+                    </div>
+                    <div class="form-group">
+                        <label>Resim Yolu</label>
+                        <input asp-for="ImageUrl" class="form-control" />
+                    </div>
+                    <div class="form-group">
+                        <label>Yorum</label>
+                        <textarea asp-for="Comment" rows="8" cols="3" class="form-control"> </textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary mr-2">Kaydet</button>
+                    <button type="button" class="btn btn-dark">İptal</button>
+                </form>
+
+            </div>
+        </div>
+    </div>
+}
+
